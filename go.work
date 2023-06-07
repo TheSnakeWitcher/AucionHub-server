@@ -1,0 +1,11 @@
+go 1.20
+
+use (
+	.
+	../../../Languaje/go/echo
+	../../../Languaje/go/go-ethereum
+	../../../Languaje/go/go-ethutil
+	../../../Languaje/go/mongo-driver
+	../../../Languaje/go/viper
+	../../../Languaje/go/zerolog
+)
